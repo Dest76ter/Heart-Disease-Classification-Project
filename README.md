@@ -18,3 +18,8 @@
 
 ## Feature Engineering
 - Transformed categorical columns ('ChestPain
+
+**Disclaimer:** This project may include code or concepts inspired by online tutorials and resources, with credit to the original creators.
+
+
+
